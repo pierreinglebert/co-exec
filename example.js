@@ -1,3 +1,4 @@
+'use strict';
 
 var co = require('co');
 var exec = require('./');
